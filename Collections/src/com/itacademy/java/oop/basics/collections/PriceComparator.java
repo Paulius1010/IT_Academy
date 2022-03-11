@@ -1,0 +1,10 @@
+package com.itacademy.java.oop.basics.collections;
+
+import java.util.Comparator;
+
+public class PriceComparator implements Comparator<Game> {
+    @Override
+    public int compare(Game o1, Game o2) {
+        return Double.compare(o1.getPrice(), o2.getPrice());
+    }
+}
