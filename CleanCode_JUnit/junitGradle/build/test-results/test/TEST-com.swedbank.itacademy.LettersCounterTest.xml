@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.swedbank.itacademy.LettersCounterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-14T19:51:15" hostname="DESKTOP-2RM0ILJ" time="0.115">
+  <properties/>
+  <testcase name="shouldThrowIllegalArgumentExcepption_when_text_is_null()" classname="com.swedbank.itacademy.LettersCounterTest" time="0.09"/>
+  <testcase name="shouldCalculate_1_when_text_has_1_given_character()" classname="com.swedbank.itacademy.LettersCounterTest" time="0.015"/>
+  <testcase name="shouldThrowIllegalArgumentExcepption_when_character_is_empty()" classname="com.swedbank.itacademy.LettersCounterTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

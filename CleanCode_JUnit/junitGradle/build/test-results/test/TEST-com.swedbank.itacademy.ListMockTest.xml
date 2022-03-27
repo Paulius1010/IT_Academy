@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.swedbank.itacademy.ListMockTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-14T19:51:15" hostname="DESKTOP-2RM0ILJ" time="2.607">
+  <properties/>
+  <testcase name="injectMocks()" classname="com.swedbank.itacademy.ListMockTest" time="2.296"/>
+  <testcase name="whenNotUsingArgumentCaptorAnnotation()" classname="com.swedbank.itacademy.ListMockTest" time="0.275"/>
+  <testcase name="whenNotUsingMockAnnotation()" classname="com.swedbank.itacademy.ListMockTest" time="0.01"/>
+  <testcase name="whenUsingMockAnnotation()" classname="com.swedbank.itacademy.ListMockTest" time="0.007"/>
+  <testcase name="whenUsingArgumentCaptorAnnotation()" classname="com.swedbank.itacademy.ListMockTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
