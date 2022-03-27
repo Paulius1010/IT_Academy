@@ -1,0 +1,9 @@
+<div *ngIf="expense; else template">
+  <h3>details for {{expense.name}}</h3>
+  <p>date {{expense.date}}</p>
+  <p>amount {{expense.amount}}$</p>
+</div>
+
+<ng-template #template>
+  <h1>Expense not found</h1>
+</ng-template>
