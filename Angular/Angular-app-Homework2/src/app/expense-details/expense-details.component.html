@@ -1,0 +1,8 @@
+<p>Expense details:</p>
+
+<div *ngIf="expense">
+    <h2>id {{expense.id}}</h2>
+    <p>{{expense.name}}</p>
+    <p>Amount: {{expense.amount}} EUR</p>
+    <p *ngIf="expense.description"> Description: {{expense.description}}</p>
+</div>

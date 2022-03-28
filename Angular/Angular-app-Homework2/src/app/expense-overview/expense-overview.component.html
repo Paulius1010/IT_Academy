@@ -1,0 +1,6 @@
+<div *ngIf="expense" (click)="onClickExpense($event, expense)">
+    <h3>Expense overview (id: {{expense.id}})</h3>
+    <p>Name: {{expense.name}}</p>
+    <p>Amount: {{expense.amount}} EUR</p>
+    <p>Description: {{expense.description}}</p>
+</div>
