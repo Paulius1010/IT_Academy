@@ -15,3 +15,4 @@
 2022-03-22/23  Angular-app-Classwork3
 2022-03-24 Angular-app-Classwork5 -workshop-MInijus
 2022-03-25 Angular-app-Classwork6-Junit-Arnoldas
+2022-04-01 QA Automation
